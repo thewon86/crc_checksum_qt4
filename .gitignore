@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Build dir
+/build-Qt_4_8_6-Release
+*.user
